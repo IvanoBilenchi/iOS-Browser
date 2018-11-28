@@ -111,6 +111,7 @@
 				TargetAttributes = {
 					CCEBE8C920AC4DCA005D60EC = {
 						CreatedOnToolsVersion = 9.3.1;
+						LastSwiftMigration = 1000;
 					};
 				};
 			};
@@ -305,7 +306,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ivanobilenchi.Browser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -323,7 +324,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ivanobilenchi.Browser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
