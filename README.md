@@ -1,6 +1,6 @@
 ## iOS Web Browser
 
-A simple web browser for iOS, implemented in **Swift 4** using **WebKit**.
+A simple web browser for iOS, implemented in **Swift 5** using **WebKit**.
 
 Example project for my iOS development lectures at the Politechnic University of Bari, courses:
 
